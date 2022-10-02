@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: udagram-frontend
-        image: chidubem91/udagram-frontend:v1
+        image: chidubem91/udagram-frontend:v2
         ports:
           - containerPort: 80
